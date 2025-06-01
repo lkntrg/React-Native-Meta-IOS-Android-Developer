@@ -1,7 +1,7 @@
 ## Little Lemon
 
-Use node 18
+Hi there,
 
-Install package: yarn
+This is the code example for the newsletter subscription application.
 
-Run: yarn run
+![](little_lemon.gif)
